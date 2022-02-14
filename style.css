@@ -1,6 +1,5 @@
-#logo{
-background-color: cornflowerblue;
-background-image: url(/pattern.png);
+.logo{
+
 }
 h1{
     text-align: left;
@@ -12,20 +11,17 @@ h1{
     font-size: smaller;
     margin-left: 10px;
 }
-p{
-    text-align: left;
-    margin-left:0.8px;
-}
 td{
     background-color: rgb(87, 144, 250);
     color: white;
     
 }
-.container{
+#container{
 text-align:left;
-background-color: white;
-margin-left: 200px;
-margin-right: 200px;
+margin: 0 auto;
+background-color: rgb(103, 170, 224);
+background-image: url(/pattern.png);
+
 }
 .image{
   position: relative;
