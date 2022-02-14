@@ -23,7 +23,10 @@ tr{
     color: black;
 }
 #container{
-    margin: 0 auto;}
+    margin: 0 auto;
+ background-color: cornflowerblue;
+ background-image: url(./pattern.png);
+}
 
 h2{
     color: grey;
