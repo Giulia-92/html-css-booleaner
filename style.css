@@ -28,9 +28,8 @@ tr{
  background-color: cornflowerblue;
  background-image: url(./pattern.png);
  text-align: left;
- background-position:auto;
+ background-position:center;
  background-repeat: repeat;
- 
 }
 
 h2{
