@@ -1,0 +1,32 @@
+#logo{
+background-color: cornflowerblue;
+background-image: url(/pattern.png);
+}
+h1{
+    text-align: left;
+    margin-left: 40px;
+    margin-right:70px;
+}
+.fonti{
+    text-align: left;
+    font-size: smaller;
+    margin-left: 10px;
+}
+p{
+    text-align: left;
+    margin-left:0.8px;
+}
+td{
+    background-color: rgb(87, 144, 250);
+    color: white;
+    
+}
+.container{
+text-align:left;
+background-color: white;
+margin-left: 200px;
+margin-right: 200px;
+}
+.image{
+  position: relative;
+}
