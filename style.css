@@ -1,6 +1,4 @@
-.logo{
 
-}
 h1{
     text-align: left;
     margin-left: 40px;
@@ -12,17 +10,24 @@ h1{
     margin-left: 10px;
 }
 td{
-    background-color: rgb(87, 144, 250);
-    color: white;
+    background-color: rgb(110, 135, 204);
+    color: rgb(0, 0, 0);
+    border: 0.1;
     
 }
+th{ background-color: rgb(153, 202, 229);
+    color: white;
+}
+tr{
+    background-color: aliceblue;
+    color: black;
+}
 #container{
-text-align:left;
-margin: 0 auto;
-background-color: rgb(103, 170, 224);
-background-image: url(/pattern.png);
+    margin: 0 auto;}
 
+h2{
+    color: grey;
 }
 .image{
-  position: relative;
+ 
 }
